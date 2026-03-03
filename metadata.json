@@ -1,0 +1,7 @@
+{
+  "name": "Supply Chain Mapper AI",
+  "description": "An AI-powered portfolio analyzer that maps headquarters, production facilities, suppliers, and customers using Gemini and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
